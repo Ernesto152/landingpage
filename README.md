@@ -1,3 +1,3 @@
 landingpage SEcureApp
 
-link page --->>> secureapp.epizy.com
+link page  http://secureapp.epizy.com/
